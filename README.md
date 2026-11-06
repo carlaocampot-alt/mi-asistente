@@ -1,6 +1,6 @@
 # TalentBot · KPIs de reclutamiento: proceso y resultados del Q3 2026
 
-**Bot:** @TU_USUARIO_bot  ·  Trabajo final del curso «Más allá de los chatbots» (plantilla de Alex Ojeda Copa).
+**Bot:** @Talentbot_carla_bot  ·  Trabajo final del curso «Más allá de los chatbots».
 
 **Qué cambié:** convertí el asistente en el asistente del equipo de reclutamiento de *Andes Talent*, una empresa ficticia de staffing tecnológico nearshore en Santa Cruz. En SQLite tiene 46 vacantes y 509 candidatos (abril–octubre 2026) y calcula los KPIs: time-to-fill, time-to-hire, aceptación de ofertas, aplicaciones por contratación, embudo y fuente de contratación, comparados con las metas 2026 y por recruiter. Avisa qué vacantes superan los 35 días, registra candidatos y contrataciones (cierra la vacante), convierte salarios con la API de tipo de cambio (ExchangeRate-API) y responde sobre el proceso, las metas, la política de ofertas y el SLA con clientes citando 4 PDFs (RAG). No responde temas ajenos al reclutamiento.
 
