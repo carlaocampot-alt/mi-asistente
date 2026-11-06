@@ -1,0 +1,47 @@
+id,puesto,cliente,recruiter,prioridad,fecha_apertura,fecha_cierre,estado
+1,Data Engineer,Northwind Labs,Diego Rojas,media,2026-06-01,2026-06-20,cubierta
+2,Python Backend Developer,BluePeak Health,Mariana Paz,media,2026-04-11,2026-05-17,cubierta
+3,Python Backend Developer,Cedar Fintech,Javier Quispe,media,2026-04-05,2026-04-30,cubierta
+4,UX/UI Designer,Cedar Fintech,Lucia Fernandez,alta,2026-09-06,2026-10-30,cubierta
+5,QA Automation Engineer,BluePeak Health,Diego Rojas,baja,2026-06-26,2026-08-21,cubierta
+6,DevOps Engineer,BluePeak Health,Mariana Paz,media,2026-09-09,2026-10-06,cubierta
+7,Data Engineer,Northwind Labs,Javier Quispe,media,2026-08-25,2026-10-03,cubierta
+8,DevOps Engineer,Cedar Fintech,Lucia Fernandez,alta,2026-07-15,2026-08-16,cubierta
+9,QA Automation Engineer,BluePeak Health,Diego Rojas,baja,2026-09-03,2026-10-10,cancelada
+10,QA Automation Engineer,Cedar Fintech,Mariana Paz,baja,2026-04-12,2026-05-23,cubierta
+11,Senior React Developer,Orbit Logistics,Javier Quispe,alta,2026-09-15,,abierta
+12,Data Engineer,Northwind Labs,Lucia Fernandez,media,2026-09-08,2026-09-28,cubierta
+13,DevOps Engineer,BluePeak Health,Diego Rojas,alta,2026-08-23,2026-09-09,cubierta
+14,QA Automation Engineer,Cedar Fintech,Mariana Paz,baja,2026-08-30,2026-10-20,cubierta
+15,UX/UI Designer,Northwind Labs,Javier Quispe,alta,2026-04-01,2026-05-19,cubierta
+16,Senior React Developer,Cedar Fintech,Lucia Fernandez,alta,2026-05-23,2026-07-12,cubierta
+17,QA Automation Engineer,Northwind Labs,Diego Rojas,media,2026-04-11,2026-05-16,cubierta
+18,UX/UI Designer,Orbit Logistics,Mariana Paz,baja,2026-04-15,2026-05-22,cubierta
+19,Senior React Developer,Orbit Logistics,Javier Quispe,baja,2026-08-21,2026-09-29,cubierta
+20,Senior React Developer,Cedar Fintech,Lucia Fernandez,media,2026-07-21,2026-09-10,cubierta
+21,QA Automation Engineer,BluePeak Health,Diego Rojas,media,2026-06-27,2026-07-31,cubierta
+22,QA Automation Engineer,Cedar Fintech,Mariana Paz,alta,2026-04-18,2026-06-06,cubierta
+23,Data Engineer,Cedar Fintech,Javier Quispe,media,2026-04-19,,abierta
+24,Project Manager,Orbit Logistics,Lucia Fernandez,media,2026-07-17,2026-08-17,cubierta
+25,UX/UI Designer,Cedar Fintech,Diego Rojas,media,2026-08-01,2026-09-08,cubierta
+26,Python Backend Developer,Orbit Logistics,Mariana Paz,media,2026-07-05,2026-08-29,cubierta
+27,Project Manager,Orbit Logistics,Javier Quispe,media,2026-05-30,2026-06-21,cancelada
+28,Mobile Developer (Flutter),Northwind Labs,Lucia Fernandez,alta,2026-07-24,2026-09-21,cubierta
+29,Mobile Developer (Flutter),Cedar Fintech,Diego Rojas,media,2026-08-10,2026-08-31,cubierta
+30,UX/UI Designer,Northwind Labs,Mariana Paz,media,2026-07-22,2026-08-19,cubierta
+31,Python Backend Developer,BluePeak Health,Javier Quispe,media,2026-09-15,,abierta
+32,Mobile Developer (Flutter),Northwind Labs,Lucia Fernandez,media,2026-07-12,2026-08-21,cubierta
+33,Python Backend Developer,Orbit Logistics,Diego Rojas,baja,2026-04-13,2026-06-02,cubierta
+34,Mobile Developer (Flutter),Cedar Fintech,Mariana Paz,media,2026-07-23,2026-08-18,cubierta
+35,QA Automation Engineer,BluePeak Health,Javier Quispe,media,2026-10-03,2026-10-23,cubierta
+36,QA Automation Engineer,Orbit Logistics,Lucia Fernandez,alta,2026-09-09,,abierta
+37,Python Backend Developer,Orbit Logistics,Diego Rojas,baja,2026-04-24,2026-06-15,cubierta
+38,Project Manager,BluePeak Health,Mariana Paz,alta,2026-04-16,2026-05-17,cancelada
+39,Project Manager,Cedar Fintech,Javier Quispe,alta,2026-04-19,2026-05-12,cubierta
+40,DevOps Engineer,BluePeak Health,Lucia Fernandez,media,2026-09-05,2026-10-08,cubierta
+41,QA Automation Engineer,Orbit Logistics,Diego Rojas,media,2026-04-20,2026-05-26,cubierta
+42,QA Automation Engineer,Northwind Labs,Mariana Paz,alta,2026-06-09,2026-07-31,cubierta
+43,Data Engineer,Northwind Labs,Javier Quispe,media,2026-08-07,2026-09-18,cubierta
+44,Python Backend Developer,Orbit Logistics,Lucia Fernandez,media,2026-10-09,,abierta
+45,Project Manager,BluePeak Health,Diego Rojas,media,2026-10-08,,abierta
+46,DevOps Engineer,Northwind Labs,Mariana Paz,baja,2026-07-08,2026-08-05,cubierta

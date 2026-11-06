@@ -1,0 +1,510 @@
+id,vacante_id,nombre,fuente,etapa_maxima,estado,fecha_aplicacion,fecha_oferta,fecha_respuesta_oferta,salario_usd
+1,1,Elena Mamani,Referido,contratado,contratado,2026-06-02,2026-06-16,2026-06-20,3750
+2,1,Karen Villca,Computrabajo,aplicado,descartado,2026-06-03,,,3450
+3,1,Tania Paredes,Referido,entrevista_cliente,descartado,2026-06-06,,,3850
+4,1,Zoe Flores,Referido,entrevista_tecnica,descartado,2026-06-06,,,3500
+5,1,Sergio Suarez,Referido,screening,descartado,2026-06-07,,,3500
+6,1,Pablo Villca,GetOnBoard,aplicado,descartado,2026-06-18,,,3800
+7,1,Elena Romero,LinkedIn,aplicado,descartado,2026-06-19,,,3700
+8,1,Fabiola Arce,GetOnBoard,aplicado,descartado,2026-06-20,,,4000
+9,2,Cristian Aguilar,LinkedIn,aplicado,descartado,2026-04-12,,,2950
+10,2,Daniel Ortiz,GetOnBoard,screening,descartado,2026-04-13,,,3000
+11,2,Fernando Rojas,Base interna,aplicado,descartado,2026-04-18,,,2800
+12,2,Yamil Gutierrez,Base interna,entrevista_cliente,descartado,2026-04-21,,,2600
+13,2,Belen Saavedra,Computrabajo,screening,descartado,2026-04-23,,,3450
+14,2,Andres Choque,Referido,contratado,contratado,2026-04-23,2026-05-12,2026-05-17,3400
+15,2,Ximena Rojas,Referido,entrevista_tecnica,descartado,2026-04-24,,,2600
+16,2,Rocio Torrez,Base interna,screening,descartado,2026-04-25,,,2700
+17,2,Irene Villca,LinkedIn,aplicado,descartado,2026-05-04,,,3550
+18,2,Daniela Vargas,Referido,aplicado,descartado,2026-05-06,,,3100
+19,2,Jorge Torrez,GetOnBoard,aplicado,descartado,2026-05-11,,,3000
+20,2,Fernando Aguilar,GetOnBoard,aplicado,descartado,2026-05-13,,,3150
+21,3,Gabriela Saavedra,LinkedIn,aplicado,descartado,2026-04-07,,,3550
+22,3,Luis Mercado,LinkedIn,entrevista_cliente,descartado,2026-04-07,,,3450
+23,3,Ximena Mercado,GetOnBoard,entrevista_tecnica,descartado,2026-04-09,,,3150
+24,3,Sergio Paredes,LinkedIn,aplicado,descartado,2026-04-09,,,3250
+25,3,Fabiola Villca,Computrabajo,aplicado,descartado,2026-04-13,,,3450
+26,3,Jorge Mendoza,LinkedIn,contratado,contratado,2026-04-13,2026-04-28,2026-04-30,2700
+27,3,Fernando Ortiz,Computrabajo,screening,descartado,2026-04-22,,,2850
+28,3,Elena Paredes,Base interna,aplicado,descartado,2026-04-27,,,3350
+29,3,Fabiola Mamani,GetOnBoard,aplicado,descartado,2026-04-28,,,3250
+30,4,Irene Suarez,Computrabajo,aplicado,descartado,2026-09-07,,,2000
+31,4,Fernando Torrez,LinkedIn,aplicado,descartado,2026-09-12,,,2600
+32,4,Nicolas Arce,GetOnBoard,aplicado,descartado,2026-09-14,,,2150
+33,4,Sergio Torrez,LinkedIn,screening,descartado,2026-09-16,,,2650
+34,4,Karen Paredes,Base interna,entrevista_cliente,descartado,2026-09-25,,,2650
+35,4,Maria Torrez,LinkedIn,entrevista_tecnica,descartado,2026-09-30,,,1950
+36,4,Fernando Mendoza,GetOnBoard,screening,descartado,2026-10-01,,,2050
+37,4,Cristian Mercado,LinkedIn,entrevista_tecnica,descartado,2026-10-01,,,2100
+38,4,Hugo Saavedra,Computrabajo,screening,descartado,2026-10-04,,,2000
+39,4,Belen Saavedra,LinkedIn,aplicado,descartado,2026-10-06,,,2250
+40,4,Nicolas Villca,LinkedIn,contratado,contratado,2026-10-11,2026-10-26,2026-10-30,2250
+41,4,Maria Mendoza,LinkedIn,aplicado,descartado,2026-10-21,,,2400
+42,5,Rocio Saavedra,GetOnBoard,entrevista_cliente,descartado,2026-06-28,,,2250
+43,5,Fabiola Salinas,Base interna,entrevista_cliente,descartado,2026-07-09,,,2650
+44,5,Carla Mercado,LinkedIn,aplicado,descartado,2026-07-27,,,2750
+45,5,Yamil Ortiz,LinkedIn,screening,descartado,2026-07-28,,,2250
+46,5,Elena Torrez,Base interna,contratado,contratado,2026-07-28,2026-08-18,2026-08-21,2150
+47,5,Elena Arce,Computrabajo,aplicado,descartado,2026-07-29,,,2700
+48,5,Bruno Paredes,LinkedIn,screening,descartado,2026-07-30,,,2800
+49,5,Ana Gutierrez,LinkedIn,aplicado,descartado,2026-07-31,,,2150
+50,5,Daniel Saavedra,Computrabajo,aplicado,descartado,2026-07-31,,,2300
+51,5,Tania Aguilar,LinkedIn,aplicado,descartado,2026-08-01,,,2200
+52,5,Karen Mamani,LinkedIn,screening,descartado,2026-08-04,,,2750
+53,5,Fernando Arce,GetOnBoard,screening,descartado,2026-08-04,,,2350
+54,5,Gabriela Vargas,Base interna,entrevista_tecnica,descartado,2026-08-08,,,2200
+55,5,Nicolas Ortiz,LinkedIn,screening,descartado,2026-08-10,,,2400
+56,6,Daniel Castro,LinkedIn,screening,descartado,2026-09-12,,,3550
+57,6,Carla Choque,Referido,contratado,contratado,2026-09-18,2026-10-02,2026-10-06,4300
+58,6,Sergio Aguilar,Referido,aplicado,descartado,2026-09-19,,,3250
+59,6,Ana Gutierrez,Base interna,aplicado,descartado,2026-09-28,,,3550
+60,7,Irene Vargas,LinkedIn,entrevista_cliente,descartado,2026-08-28,,,3700
+61,7,Fabiola Salinas,LinkedIn,aplicado,descartado,2026-09-05,,,3300
+62,7,Fernando Salinas,Referido,contratado,contratado,2026-09-15,2026-09-28,2026-10-03,3600
+63,7,Ximena Arce,Base interna,oferta,descartado,2026-09-21,2026-10-01,,4100
+64,7,Tania Salinas,LinkedIn,screening,descartado,2026-09-25,,,3450
+65,7,Hugo Paredes,LinkedIn,screening,descartado,2026-09-28,,,3950
+66,7,Daniela Gutierrez,Computrabajo,aplicado,descartado,2026-09-30,,,3950
+67,7,Sergio Saavedra,Base interna,aplicado,descartado,2026-09-30,,,3400
+68,8,Irene Mercado,Computrabajo,screening,descartado,2026-07-22,,,3150
+69,8,Andres Romero,Computrabajo,entrevista_tecnica,descartado,2026-07-24,,,3900
+70,8,Nicolas Paredes,Referido,contratado,contratado,2026-07-26,2026-08-12,2026-08-16,3850
+71,8,Jorge Torrez,Referido,aplicado,descartado,2026-07-31,,,3650
+72,8,Daniela Choque,LinkedIn,aplicado,descartado,2026-07-31,,,3800
+73,8,Daniel Romero,Referido,screening,descartado,2026-08-02,,,4100
+74,8,Sergio Mamani,LinkedIn,screening,descartado,2026-08-07,,,3350
+75,8,Gabriela Mendoza,GetOnBoard,aplicado,descartado,2026-08-09,,,3050
+76,8,Zoe Rios,LinkedIn,screening,descartado,2026-08-11,,,4300
+77,8,Zoe Castro,Computrabajo,aplicado,descartado,2026-08-14,,,3750
+78,8,Hugo Torrez,Computrabajo,aplicado,descartado,2026-08-14,,,3350
+79,9,Esteban Paredes,Referido,entrevista_cliente,descartado,2026-09-10,,,2550
+80,9,Karen Romero,Referido,entrevista_tecnica,descartado,2026-09-18,,,2700
+81,9,Fernando Rojas,GetOnBoard,entrevista_tecnica,descartado,2026-09-19,,,2300
+82,9,Carla Saavedra,Referido,entrevista_tecnica,descartado,2026-09-24,,,2600
+83,9,Hugo Flores,Computrabajo,aplicado,descartado,2026-09-26,,,2350
+84,9,Olga Mercado,Computrabajo,entrevista_cliente,descartado,2026-09-28,,,2350
+85,9,Esteban Rojas,Computrabajo,screening,descartado,2026-09-30,,,2750
+86,9,Gonzalo Salinas,Referido,screening,descartado,2026-09-30,,,2200
+87,9,Cristian Ortiz,Referido,aplicado,descartado,2026-10-08,,,2350
+88,10,Belen Mercado,Referido,screening,descartado,2026-04-16,,,2900
+89,10,Tania Torrez,Base interna,aplicado,descartado,2026-04-19,,,2350
+90,10,Tania Castro,Base interna,contratado,contratado,2026-04-29,2026-05-19,2026-05-23,2300
+91,10,Luis Mamani,Computrabajo,oferta,oferta_rechazada,2026-04-29,2026-05-19,2026-05-21,2550
+92,10,Belen Saavedra,LinkedIn,aplicado,descartado,2026-05-03,,,2850
+93,10,Maria Saavedra,LinkedIn,screening,descartado,2026-05-04,,,2550
+94,10,Cristian Aguilar,Referido,aplicado,descartado,2026-05-05,,,2050
+95,10,Cristian Paredes,Computrabajo,aplicado,descartado,2026-05-06,,,2850
+96,10,Ana Saavedra,Base interna,aplicado,descartado,2026-05-09,,,2100
+97,10,Nicolas Mercado,Referido,screening,descartado,2026-05-10,,,2500
+98,10,Bruno Romero,LinkedIn,aplicado,descartado,2026-05-21,,,2250
+99,11,Ana Rojas,Computrabajo,screening,descartado,2026-09-16,,,3200
+100,11,Gabriela Mercado,Referido,entrevista_cliente,descartado,2026-09-19,,,2800
+101,11,Maria Vargas,Computrabajo,aplicado,descartado,2026-09-20,,,3600
+102,11,Luis Castro,LinkedIn,entrevista_tecnica,descartado,2026-09-29,,,3750
+103,11,Carla Mamani,LinkedIn,screening,descartado,2026-10-04,,,3650
+104,11,Luis Villca,GetOnBoard,aplicado,descartado,2026-10-12,,,3200
+105,11,Yamil Vargas,Base interna,screening,descartado,2026-10-13,,,3800
+106,11,Irene Salinas,LinkedIn,aplicado,descartado,2026-10-14,,,3350
+107,11,Hugo Mendoza,LinkedIn,entrevista_tecnica,descartado,2026-10-15,,,3500
+108,11,Karen Aguilar,GetOnBoard,entrevista_tecnica,descartado,2026-10-20,,,3000
+109,11,Carla Rios,LinkedIn,aplicado,descartado,2026-10-23,,,3550
+110,12,Andres Romero,Referido,oferta,descartado,2026-09-14,2026-09-24,,4100
+111,12,Tania Paredes,Base interna,contratado,contratado,2026-09-16,2026-09-26,2026-09-28,4150
+112,12,Irene Torrez,Computrabajo,screening,descartado,2026-09-17,,,3800
+113,12,Zoe Suarez,Referido,screening,descartado,2026-09-20,,,3850
+114,12,Andres Torrez,GetOnBoard,aplicado,descartado,2026-09-28,,,3300
+115,12,Sergio Vargas,LinkedIn,aplicado,descartado,2026-09-28,,,3350
+116,13,Tania Suarez,Computrabajo,aplicado,descartado,2026-08-24,,,3450
+117,13,Gonzalo Gutierrez,LinkedIn,contratado,contratado,2026-08-30,2026-09-07,2026-09-09,3450
+118,13,Carla Flores,LinkedIn,entrevista_tecnica,descartado,2026-09-01,,,3200
+119,13,Nicolas Mercado,Base interna,aplicado,descartado,2026-09-05,,,3800
+120,13,Bruno Arce,LinkedIn,aplicado,descartado,2026-09-07,,,3850
+121,13,Zoe Vargas,Referido,aplicado,descartado,2026-09-07,,,3550
+122,14,Fernando Mamani,Computrabajo,aplicado,descartado,2026-09-06,,,2150
+123,14,Rocio Flores,Computrabajo,screening,descartado,2026-09-07,,,2850
+124,14,Zoe Rios,Referido,aplicado,descartado,2026-09-14,,,2100
+125,14,Elena Flores,LinkedIn,screening,descartado,2026-09-26,,,2200
+126,14,Ana Rios,Base interna,screening,descartado,2026-10-01,,,2550
+127,14,Elena Castro,LinkedIn,entrevista_tecnica,descartado,2026-10-02,,,2850
+128,14,Fernando Arce,Referido,contratado,contratado,2026-10-03,2026-10-18,2026-10-20,2850
+129,14,Hugo Mercado,GetOnBoard,screening,descartado,2026-10-12,,,2100
+130,14,Zoe Mamani,LinkedIn,aplicado,descartado,2026-10-12,,,2700
+131,14,Cristian Romero,Computrabajo,aplicado,descartado,2026-10-13,,,2350
+132,15,Cristian Salinas,LinkedIn,screening,descartado,2026-04-05,,,2550
+133,15,Olga Paredes,Computrabajo,entrevista_tecnica,descartado,2026-04-11,,,2300
+134,15,Maria Gutierrez,LinkedIn,aplicado,descartado,2026-04-13,,,2500
+135,15,Jorge Mamani,LinkedIn,aplicado,descartado,2026-04-14,,,2550
+136,15,Luis Rios,Computrabajo,screening,descartado,2026-04-16,,,2700
+137,15,Gonzalo Choque,LinkedIn,screening,descartado,2026-04-22,,,2150
+138,15,Jorge Castro,LinkedIn,contratado,contratado,2026-04-24,2026-05-15,2026-05-19,2150
+139,15,Rocio Torrez,LinkedIn,oferta,oferta_rechazada,2026-04-24,2026-05-12,2026-05-15,2150
+140,15,Jorge Flores,LinkedIn,screening,descartado,2026-04-26,,,2700
+141,15,Irene Flores,Referido,aplicado,descartado,2026-04-27,,,2650
+142,15,Belen Mercado,GetOnBoard,entrevista_cliente,descartado,2026-05-02,,,2000
+143,15,Nicolas Aguilar,LinkedIn,screening,descartado,2026-05-04,,,2100
+144,15,Daniela Vargas,LinkedIn,aplicado,descartado,2026-05-04,,,2200
+145,15,Ximena Choque,Computrabajo,screening,descartado,2026-05-05,,,2300
+146,15,Victor Paredes,GetOnBoard,aplicado,descartado,2026-05-09,,,2300
+147,15,Jorge Aguilar,GetOnBoard,screening,descartado,2026-05-13,,,2250
+148,15,Andres Mercado,Base interna,screening,descartado,2026-05-13,,,2200
+149,15,Maria Castro,Base interna,aplicado,descartado,2026-05-14,,,2100
+150,16,Cristian Flores,Referido,entrevista_tecnica,descartado,2026-05-26,,,2750
+151,16,Irene Aguilar,GetOnBoard,aplicado,descartado,2026-06-02,,,3300
+152,16,Gabriela Vargas,LinkedIn,screening,descartado,2026-06-04,,,3650
+153,16,Esteban Mercado,LinkedIn,aplicado,descartado,2026-06-11,,,3150
+154,16,Belen Mercado,LinkedIn,screening,descartado,2026-06-11,,,2750
+155,16,Irene Ortiz,Computrabajo,aplicado,descartado,2026-06-18,,,3450
+156,16,Gonzalo Castro,GetOnBoard,contratado,contratado,2026-06-19,2026-07-08,2026-07-12,3300
+157,16,Irene Mendoza,Computrabajo,entrevista_tecnica,descartado,2026-06-21,,,2850
+158,16,Fernando Mendoza,LinkedIn,screening,descartado,2026-06-24,,,3600
+159,16,Daniel Ortiz,LinkedIn,screening,descartado,2026-06-24,,,3550
+160,16,Zoe Paredes,Referido,entrevista_tecnica,descartado,2026-06-29,,,3250
+161,16,Fabiola Mercado,LinkedIn,entrevista_tecnica,descartado,2026-06-29,,,2900
+162,16,Olga Romero,LinkedIn,aplicado,descartado,2026-07-02,,,3400
+163,17,Nicolas Vargas,LinkedIn,aplicado,descartado,2026-04-12,,,2100
+164,17,Gonzalo Mamani,LinkedIn,screening,descartado,2026-04-14,,,2300
+165,17,Carla Gutierrez,GetOnBoard,aplicado,descartado,2026-04-22,,,2200
+166,17,Daniel Villca,Base interna,contratado,contratado,2026-04-26,2026-05-13,2026-05-16,2700
+167,17,Zoe Torrez,Base interna,entrevista_tecnica,descartado,2026-04-30,,,2100
+168,17,Zoe Rios,LinkedIn,screening,descartado,2026-05-02,,,2800
+169,17,Irene Rios,Base interna,aplicado,descartado,2026-05-14,,,2100
+170,17,Maria Vargas,GetOnBoard,aplicado,descartado,2026-05-16,,,2750
+171,18,Ana Rios,LinkedIn,aplicado,descartado,2026-04-17,,,2300
+172,18,Andres Aguilar,Computrabajo,aplicado,descartado,2026-04-18,,,2450
+173,18,Carla Arce,Base interna,aplicado,descartado,2026-04-19,,,2250
+174,18,Nicolas Vargas,Referido,entrevista_tecnica,descartado,2026-04-19,,,2100
+175,18,Gonzalo Suarez,Referido,aplicado,descartado,2026-04-21,,,2150
+176,18,Ximena Aguilar,Referido,contratado,contratado,2026-04-30,2026-05-18,2026-05-22,2350
+177,18,Bruno Ortiz,Computrabajo,aplicado,descartado,2026-05-01,,,2450
+178,18,Victor Torrez,LinkedIn,entrevista_cliente,descartado,2026-05-03,,,2000
+179,18,Nicolas Suarez,Computrabajo,screening,descartado,2026-05-04,,,2400
+180,18,Daniel Aguilar,LinkedIn,aplicado,descartado,2026-05-05,,,2150
+181,18,Gabriela Villca,Base interna,entrevista_tecnica,descartado,2026-05-06,,,2300
+182,18,Yamil Saavedra,Computrabajo,screening,descartado,2026-05-09,,,2550
+183,18,Irene Castro,LinkedIn,aplicado,descartado,2026-05-17,,,1950
+184,18,Belen Rojas,LinkedIn,screening,descartado,2026-05-18,,,2350
+185,19,Cristian Rios,Computrabajo,screening,descartado,2026-08-23,,,3350
+186,19,Pablo Vargas,Computrabajo,aplicado,descartado,2026-08-24,,,2900
+187,19,Jorge Mercado,LinkedIn,screening,descartado,2026-08-27,,,2950
+188,19,Gabriela Flores,LinkedIn,aplicado,descartado,2026-08-31,,,3700
+189,19,Hugo Vargas,GetOnBoard,aplicado,descartado,2026-09-04,,,3850
+190,19,Fernando Aguilar,Base interna,contratado,contratado,2026-09-08,2026-09-24,2026-09-29,3600
+191,19,Luis Flores,LinkedIn,aplicado,descartado,2026-09-12,,,2750
+192,19,Belen Salinas,LinkedIn,entrevista_cliente,descartado,2026-09-12,,,3100
+193,19,Fabiola Paredes,LinkedIn,aplicado,descartado,2026-09-14,,,3250
+194,19,Pablo Rojas,LinkedIn,screening,descartado,2026-09-19,,,3050
+195,19,Hugo Choque,Referido,screening,descartado,2026-09-22,,,3150
+196,19,Andres Mercado,LinkedIn,aplicado,descartado,2026-09-23,,,3350
+197,19,Irene Aguilar,Referido,screening,descartado,2026-09-24,,,3600
+198,19,Esteban Mamani,Base interna,screening,descartado,2026-09-24,,,2950
+199,19,Jorge Suarez,LinkedIn,aplicado,descartado,2026-09-29,,,3100
+200,20,Karen Suarez,LinkedIn,aplicado,descartado,2026-07-22,,,3100
+201,20,Tania Salinas,Base interna,aplicado,descartado,2026-07-22,,,2850
+202,20,Cristian Choque,LinkedIn,aplicado,descartado,2026-07-24,,,2950
+203,20,Cristian Torrez,Computrabajo,aplicado,descartado,2026-07-31,,,3150
+204,20,Pablo Torrez,LinkedIn,screening,descartado,2026-08-12,,,3050
+205,20,Zoe Suarez,LinkedIn,entrevista_tecnica,descartado,2026-08-22,,,3600
+206,20,Olga Gutierrez,LinkedIn,contratado,contratado,2026-08-25,2026-09-07,2026-09-10,3300
+207,20,Andres Paredes,Base interna,aplicado,descartado,2026-08-29,,,3800
+208,20,Gabriela Mamani,Base interna,aplicado,descartado,2026-08-30,,,3550
+209,20,Rocio Mamani,Referido,entrevista_cliente,descartado,2026-08-31,,,3200
+210,20,Tania Gutierrez,LinkedIn,screening,descartado,2026-09-02,,,3600
+211,20,Sergio Castro,Computrabajo,aplicado,descartado,2026-09-02,,,2850
+212,21,Nicolas Vargas,GetOnBoard,aplicado,descartado,2026-06-29,,,2550
+213,21,Andres Suarez,Computrabajo,screening,descartado,2026-06-30,,,2800
+214,21,Pablo Torrez,LinkedIn,aplicado,descartado,2026-07-01,,,2200
+215,21,Bruno Aguilar,LinkedIn,entrevista_cliente,descartado,2026-07-05,,,2700
+216,21,Belen Romero,Referido,entrevista_cliente,descartado,2026-07-09,,,2550
+217,21,Yamil Villca,Base interna,contratado,contratado,2026-07-14,2026-07-26,2026-07-31,2350
+218,21,Pablo Villca,LinkedIn,aplicado,descartado,2026-07-22,,,2450
+219,21,Daniel Castro,LinkedIn,aplicado,descartado,2026-07-24,,,2100
+220,21,Fernando Flores,LinkedIn,screening,descartado,2026-07-25,,,2600
+221,21,Maria Choque,Base interna,aplicado,descartado,2026-07-28,,,2150
+222,21,Jorge Villca,Base interna,aplicado,descartado,2026-07-29,,,2350
+223,22,Nicolas Rojas,GetOnBoard,aplicado,descartado,2026-04-22,,,2350
+224,22,Elena Mamani,GetOnBoard,aplicado,descartado,2026-04-23,,,2250
+225,22,Ximena Torrez,GetOnBoard,entrevista_cliente,descartado,2026-04-24,,,2750
+226,22,Karen Villca,GetOnBoard,oferta,oferta_rechazada,2026-04-30,2026-05-13,2026-05-17,2300
+227,22,Ximena Suarez,LinkedIn,aplicado,descartado,2026-05-04,,,2700
+228,22,Zoe Flores,LinkedIn,aplicado,descartado,2026-05-05,,,2650
+229,22,Sergio Flores,LinkedIn,screening,descartado,2026-05-09,,,2350
+230,22,Karen Mamani,LinkedIn,screening,descartado,2026-05-16,,,2450
+231,22,Pablo Gutierrez,LinkedIn,entrevista_tecnica,descartado,2026-05-17,,,2100
+232,22,Carla Aguilar,GetOnBoard,aplicado,descartado,2026-05-18,,,2350
+233,22,Nicolas Saavedra,Computrabajo,aplicado,descartado,2026-05-21,,,2300
+234,22,Olga Ortiz,LinkedIn,entrevista_cliente,descartado,2026-05-21,,,2750
+235,22,Carla Flores,LinkedIn,entrevista_tecnica,descartado,2026-05-23,,,2850
+236,22,Fabiola Ortiz,LinkedIn,contratado,contratado,2026-05-23,2026-06-03,2026-06-06,2850
+237,22,Luis Flores,Computrabajo,aplicado,descartado,2026-05-25,,,2150
+238,22,Irene Villca,LinkedIn,entrevista_cliente,descartado,2026-05-25,,,2150
+239,22,Carla Mendoza,Computrabajo,aplicado,descartado,2026-05-29,,,2800
+240,23,Karen Aguilar,LinkedIn,aplicado,descartado,2026-04-20,,,3650
+241,23,Bruno Rojas,LinkedIn,screening,descartado,2026-04-27,,,3650
+242,23,Zoe Torrez,GetOnBoard,aplicado,descartado,2026-04-30,,,3900
+243,23,Fabiola Ortiz,LinkedIn,screening,descartado,2026-05-02,,,3100
+244,23,Olga Choque,Base interna,aplicado,descartado,2026-05-05,,,3550
+245,23,Daniel Ortiz,LinkedIn,screening,descartado,2026-05-08,,,3300
+246,23,Esteban Rojas,Base interna,aplicado,descartado,2026-05-10,,,3850
+247,23,Carla Choque,LinkedIn,aplicado,descartado,2026-05-11,,,4150
+248,23,Yamil Rojas,Base interna,entrevista_tecnica,descartado,2026-05-11,,,3350
+249,23,Cristian Rojas,LinkedIn,screening,descartado,2026-05-11,,,3100
+250,24,Maria Gutierrez,Base interna,screening,descartado,2026-07-18,,,2600
+251,24,Gonzalo Castro,Base interna,entrevista_cliente,descartado,2026-07-19,,,2550
+252,24,Esteban Castro,LinkedIn,screening,descartado,2026-07-21,,,2700
+253,24,Belen Rojas,Computrabajo,aplicado,descartado,2026-07-24,,,2950
+254,24,Gabriela Choque,LinkedIn,entrevista_cliente,descartado,2026-07-24,,,3250
+255,24,Daniela Aguilar,Referido,screening,descartado,2026-07-26,,,3300
+256,24,Victor Castro,LinkedIn,contratado,contratado,2026-07-30,2026-08-12,2026-08-17,3100
+257,24,Ximena Saavedra,LinkedIn,screening,descartado,2026-08-03,,,3050
+258,24,Fabiola Ortiz,LinkedIn,aplicado,descartado,2026-08-05,,,3250
+259,24,Yamil Paredes,LinkedIn,entrevista_cliente,descartado,2026-08-05,,,3050
+260,24,Tania Villca,GetOnBoard,screening,descartado,2026-08-06,,,2550
+261,25,Nicolas Gutierrez,LinkedIn,entrevista_tecnica,descartado,2026-08-10,,,2050
+262,25,Gonzalo Choque,LinkedIn,screening,descartado,2026-08-11,,,2000
+263,25,Gabriela Paredes,LinkedIn,screening,descartado,2026-08-12,,,2250
+264,25,Fabiola Flores,Referido,aplicado,descartado,2026-08-14,,,2150
+265,25,Andres Romero,Computrabajo,screening,descartado,2026-08-15,,,2250
+266,25,Maria Vargas,LinkedIn,aplicado,descartado,2026-08-19,,,2000
+267,25,Hugo Rojas,Referido,contratado,contratado,2026-08-23,2026-09-03,2026-09-08,2600
+268,25,Pablo Salinas,Base interna,entrevista_cliente,descartado,2026-08-25,,,2550
+269,25,Karen Paredes,LinkedIn,aplicado,descartado,2026-08-26,,,2200
+270,25,Carla Gutierrez,Base interna,screening,descartado,2026-08-27,,,2150
+271,25,Fabiola Aguilar,LinkedIn,aplicado,descartado,2026-08-29,,,2500
+272,25,Fernando Aguilar,Computrabajo,aplicado,descartado,2026-08-30,,,2000
+273,25,Victor Rojas,Base interna,screening,descartado,2026-09-02,,,2000
+274,25,Sergio Arce,LinkedIn,screening,descartado,2026-09-06,,,2200
+275,26,Gabriela Saavedra,GetOnBoard,aplicado,descartado,2026-07-06,,,3050
+276,26,Hugo Rios,Referido,entrevista_tecnica,descartado,2026-07-08,,,3100
+277,26,Tania Suarez,Base interna,screening,descartado,2026-07-15,,,2650
+278,26,Maria Salinas,LinkedIn,oferta,oferta_rechazada,2026-07-15,2026-08-01,2026-08-05,3300
+279,26,Maria Suarez,LinkedIn,aplicado,descartado,2026-07-18,,,3150
+280,26,Maria Mercado,Computrabajo,aplicado,descartado,2026-07-27,,,3350
+281,26,Zoe Salinas,Base interna,screening,descartado,2026-08-01,,,2800
+282,26,Esteban Gutierrez,Base interna,aplicado,descartado,2026-08-04,,,3350
+283,26,Bruno Ortiz,Referido,contratado,contratado,2026-08-14,2026-08-27,2026-08-29,3000
+284,26,Jorge Rojas,Base interna,aplicado,descartado,2026-08-18,,,3350
+285,26,Olga Suarez,Base interna,aplicado,descartado,2026-08-18,,,3200
+286,26,Ximena Saavedra,Computrabajo,aplicado,descartado,2026-08-18,,,2900
+287,27,Ximena Ortiz,LinkedIn,screening,descartado,2026-06-01,,,2750
+288,27,Fabiola Arce,LinkedIn,aplicado,descartado,2026-06-05,,,2550
+289,27,Esteban Saavedra,Referido,screening,descartado,2026-06-06,,,3400
+290,27,Victor Ortiz,LinkedIn,screening,descartado,2026-06-07,,,2800
+291,27,Tania Mamani,LinkedIn,aplicado,descartado,2026-06-14,,,2600
+292,27,Hugo Gutierrez,Computrabajo,screening,descartado,2026-06-17,,,3150
+293,27,Olga Aguilar,Computrabajo,aplicado,descartado,2026-06-17,,,3100
+294,27,Rocio Romero,Computrabajo,aplicado,descartado,2026-06-19,,,2750
+295,27,Victor Vargas,LinkedIn,aplicado,descartado,2026-06-21,,,2750
+296,28,Ana Torrez,LinkedIn,screening,descartado,2026-07-26,,,2850
+297,28,Jorge Vargas,LinkedIn,entrevista_tecnica,descartado,2026-08-01,,,2950
+298,28,Rocio Mercado,Computrabajo,aplicado,descartado,2026-08-05,,,3300
+299,28,Yamil Suarez,LinkedIn,screening,descartado,2026-08-07,,,2400
+300,28,Luis Romero,GetOnBoard,aplicado,descartado,2026-08-10,,,3200
+301,28,Fernando Salinas,Base interna,screening,descartado,2026-08-16,,,2850
+302,28,Andres Rios,LinkedIn,aplicado,descartado,2026-08-20,,,2900
+303,28,Nicolas Mendoza,LinkedIn,aplicado,descartado,2026-08-31,,,2900
+304,28,Carla Choque,LinkedIn,aplicado,descartado,2026-09-02,,,3050
+305,28,Carla Flores,Referido,contratado,contratado,2026-09-03,2026-09-19,2026-09-21,3200
+306,29,Jorge Castro,LinkedIn,contratado,contratado,2026-08-14,2026-08-28,2026-08-31,2850
+307,29,Bruno Ortiz,LinkedIn,entrevista_cliente,descartado,2026-08-16,,,3300
+308,29,Luis Aguilar,LinkedIn,entrevista_cliente,descartado,2026-08-16,,,2800
+309,29,Elena Ortiz,Computrabajo,screening,descartado,2026-08-21,,,2700
+310,29,Rocio Vargas,LinkedIn,screening,descartado,2026-08-24,,,3150
+311,29,Zoe Paredes,GetOnBoard,screening,descartado,2026-08-25,,,2850
+312,29,Gabriela Saavedra,LinkedIn,screening,descartado,2026-08-27,,,2600
+313,29,Hugo Rojas,Computrabajo,aplicado,descartado,2026-08-29,,,2900
+314,29,Cristian Castro,Referido,aplicado,descartado,2026-08-30,,,2400
+315,29,Belen Rojas,Base interna,aplicado,descartado,2026-08-31,,,3100
+316,29,Belen Mercado,Base interna,aplicado,descartado,2026-08-31,,,2700
+317,30,Esteban Torrez,Computrabajo,aplicado,descartado,2026-07-23,,,2050
+318,30,Gonzalo Salinas,LinkedIn,aplicado,descartado,2026-07-27,,,2600
+319,30,Sergio Arce,Referido,aplicado,descartado,2026-07-29,,,2050
+320,30,Tania Saavedra,LinkedIn,screening,descartado,2026-08-04,,,2550
+321,30,Carla Mamani,Base interna,contratado,contratado,2026-08-04,2026-08-15,2026-08-19,2350
+322,30,Rocio Salinas,LinkedIn,entrevista_tecnica,descartado,2026-08-05,,,2500
+323,30,Elena Salinas,Computrabajo,screening,descartado,2026-08-07,,,2650
+324,30,Hugo Flores,Referido,entrevista_cliente,descartado,2026-08-11,,,2600
+325,30,Gonzalo Torrez,Referido,aplicado,descartado,2026-08-14,,,2600
+326,30,Cristian Villca,Referido,aplicado,descartado,2026-08-18,,,2550
+327,31,Tania Salinas,LinkedIn,aplicado,descartado,2026-09-24,,,3250
+328,31,Fabiola Paredes,Base interna,entrevista_tecnica,descartado,2026-09-29,,,2850
+329,31,Hugo Suarez,Computrabajo,aplicado,descartado,2026-09-30,,,3600
+330,31,Sergio Mendoza,LinkedIn,entrevista_tecnica,descartado,2026-10-02,,,3450
+331,31,Nicolas Ortiz,LinkedIn,aplicado,descartado,2026-10-03,,,2900
+332,31,Fernando Mamani,Computrabajo,entrevista_cliente,descartado,2026-10-05,,,3400
+333,31,Esteban Choque,LinkedIn,screening,descartado,2026-10-09,,,2800
+334,31,Elena Romero,Computrabajo,aplicado,descartado,2026-10-10,,,3200
+335,31,Fernando Gutierrez,GetOnBoard,screening,descartado,2026-10-11,,,3050
+336,31,Bruno Flores,GetOnBoard,screening,descartado,2026-10-14,,,2600
+337,31,Victor Romero,Referido,screening,descartado,2026-10-19,,,3550
+338,31,Pablo Salinas,Computrabajo,aplicado,descartado,2026-10-20,,,2650
+339,31,Gonzalo Vargas,LinkedIn,aplicado,descartado,2026-10-21,,,2850
+340,31,Karen Rios,GetOnBoard,aplicado,descartado,2026-10-21,,,2900
+341,32,Tania Paredes,LinkedIn,aplicado,descartado,2026-07-13,,,2550
+342,32,Ana Flores,Computrabajo,screening,descartado,2026-07-18,,,2600
+343,32,Sergio Torrez,LinkedIn,aplicado,descartado,2026-07-26,,,2400
+344,32,Ximena Flores,Computrabajo,aplicado,descartado,2026-07-27,,,3100
+345,32,Irene Vargas,Computrabajo,screening,descartado,2026-07-27,,,2550
+346,32,Gabriela Flores,Base interna,entrevista_tecnica,descartado,2026-07-27,,,2900
+347,32,Belen Aguilar,Base interna,oferta,descartado,2026-08-01,2026-08-17,,2800
+348,32,Rocio Mendoza,LinkedIn,aplicado,descartado,2026-08-03,,,2650
+349,32,Daniela Rios,Computrabajo,aplicado,descartado,2026-08-04,,,3200
+350,32,Bruno Mercado,Referido,contratado,contratado,2026-08-05,2026-08-19,2026-08-21,3000
+351,32,Rocio Mendoza,Base interna,screening,descartado,2026-08-08,,,3050
+352,32,Jorge Flores,LinkedIn,aplicado,descartado,2026-08-08,,,2500
+353,33,Yamil Salinas,LinkedIn,aplicado,descartado,2026-04-15,,,2900
+354,33,Belen Suarez,GetOnBoard,screening,descartado,2026-04-23,,,2900
+355,33,Luis Mamani,Computrabajo,screening,descartado,2026-04-24,,,3250
+356,33,Rocio Rios,Computrabajo,aplicado,descartado,2026-04-29,,,3600
+357,33,Pablo Choque,Referido,screening,descartado,2026-04-30,,,2600
+358,33,Gonzalo Suarez,Computrabajo,screening,descartado,2026-05-01,,,3550
+359,33,Rocio Mercado,LinkedIn,aplicado,descartado,2026-05-02,,,3300
+360,33,Hugo Mendoza,GetOnBoard,screening,descartado,2026-05-06,,,3250
+361,33,Daniela Saavedra,Computrabajo,entrevista_cliente,descartado,2026-05-07,,,3550
+362,33,Luis Suarez,Computrabajo,screening,descartado,2026-05-10,,,2800
+363,33,Jorge Mendoza,GetOnBoard,screening,descartado,2026-05-11,,,2800
+364,33,Daniel Flores,Base interna,contratado,contratado,2026-05-12,2026-05-29,2026-06-02,2550
+365,33,Zoe Saavedra,Computrabajo,aplicado,descartado,2026-05-14,,,3050
+366,33,Karen Romero,LinkedIn,aplicado,descartado,2026-05-15,,,2900
+367,33,Gonzalo Gutierrez,Computrabajo,screening,descartado,2026-05-17,,,3350
+368,33,Fernando Flores,Referido,entrevista_tecnica,descartado,2026-05-19,,,3200
+369,33,Elena Villca,LinkedIn,aplicado,descartado,2026-05-22,,,3350
+370,33,Pablo Paredes,Referido,aplicado,descartado,2026-05-27,,,3150
+371,34,Luis Gutierrez,GetOnBoard,aplicado,descartado,2026-07-25,,,3350
+372,34,Esteban Mamani,LinkedIn,screening,descartado,2026-07-27,,,3100
+373,34,Nicolas Saavedra,Referido,screening,descartado,2026-07-31,,,2600
+374,34,Hugo Mamani,Base interna,contratado,contratado,2026-08-02,2026-08-16,2026-08-18,2400
+375,34,Sergio Flores,LinkedIn,aplicado,descartado,2026-08-09,,,2850
+376,34,Sergio Mamani,Base interna,screening,descartado,2026-08-15,,,2650
+377,34,Rocio Arce,LinkedIn,screening,descartado,2026-08-16,,,2450
+378,34,Maria Rios,LinkedIn,aplicado,descartado,2026-08-17,,,2600
+379,34,Elena Rojas,LinkedIn,aplicado,descartado,2026-08-17,,,3050
+380,34,Daniel Saavedra,Referido,aplicado,descartado,2026-08-18,,,2550
+381,35,Ximena Aguilar,LinkedIn,entrevista_tecnica,descartado,2026-10-04,,,2250
+382,35,Esteban Aguilar,LinkedIn,screening,descartado,2026-10-06,,,2250
+383,35,Cristian Gutierrez,LinkedIn,entrevista_cliente,descartado,2026-10-07,,,2700
+384,35,Daniel Salinas,LinkedIn,contratado,contratado,2026-10-07,2026-10-21,2026-10-23,2200
+385,35,Pablo Salinas,LinkedIn,aplicado,descartado,2026-10-11,,,2350
+386,35,Karen Villca,Computrabajo,screening,descartado,2026-10-19,,,2800
+387,35,Pablo Mamani,Computrabajo,aplicado,descartado,2026-10-19,,,2050
+388,36,Ximena Vargas,Referido,entrevista_cliente,descartado,2026-09-12,,,2400
+389,36,Fabiola Villca,LinkedIn,aplicado,descartado,2026-09-24,,,2650
+390,36,Hugo Flores,LinkedIn,entrevista_tecnica,descartado,2026-09-26,,,2650
+391,36,Karen Arce,Computrabajo,aplicado,descartado,2026-09-28,,,2650
+392,36,Elena Paredes,Base interna,entrevista_tecnica,descartado,2026-10-01,,,2750
+393,36,Fabiola Torrez,Referido,entrevista_cliente,descartado,2026-10-07,,,2600
+394,36,Belen Arce,Computrabajo,aplicado,descartado,2026-10-12,,,2850
+395,36,Carla Aguilar,Computrabajo,aplicado,descartado,2026-10-13,,,2550
+396,36,Pablo Arce,Referido,aplicado,descartado,2026-10-14,,,2250
+397,36,Hugo Romero,LinkedIn,oferta,en_proceso,2026-10-18,2026-11-02,,2150
+398,37,Gabriela Choque,Base interna,oferta,oferta_rechazada,2026-04-27,2026-05-13,2026-05-15,2800
+399,37,Hugo Flores,Computrabajo,entrevista_cliente,descartado,2026-04-27,,,2850
+400,37,Olga Villca,Referido,screening,descartado,2026-05-06,,,3300
+401,37,Jorge Paredes,Computrabajo,entrevista_tecnica,descartado,2026-05-08,,,3550
+402,37,Irene Rios,Computrabajo,aplicado,descartado,2026-05-08,,,2900
+403,37,Karen Paredes,LinkedIn,aplicado,descartado,2026-05-10,,,2650
+404,37,Rocio Ortiz,Base interna,screening,descartado,2026-05-19,,,3250
+405,37,Zoe Gutierrez,Computrabajo,aplicado,descartado,2026-05-20,,,3000
+406,37,Ximena Villca,Referido,contratado,contratado,2026-05-22,2026-06-10,2026-06-15,2900
+407,37,Irene Castro,LinkedIn,aplicado,descartado,2026-05-24,,,2800
+408,37,Fabiola Choque,Base interna,aplicado,descartado,2026-05-24,,,2650
+409,37,Victor Mercado,LinkedIn,screening,descartado,2026-05-25,,,2650
+410,37,Fernando Rojas,LinkedIn,aplicado,descartado,2026-05-27,,,2750
+411,37,Rocio Rios,Referido,entrevista_tecnica,descartado,2026-06-01,,,3500
+412,37,Gabriela Arce,LinkedIn,entrevista_cliente,descartado,2026-06-02,,,2700
+413,37,Nicolas Vargas,LinkedIn,screening,descartado,2026-06-06,,,3250
+414,37,Luis Gutierrez,Computrabajo,screening,descartado,2026-06-06,,,3200
+415,38,Hugo Rojas,Computrabajo,aplicado,descartado,2026-04-22,,,2800
+416,38,Hugo Gutierrez,LinkedIn,screening,descartado,2026-04-24,,,3200
+417,38,Sergio Villca,LinkedIn,aplicado,descartado,2026-04-28,,,2800
+418,38,Cristian Romero,LinkedIn,screening,descartado,2026-05-01,,,3400
+419,38,Tania Arce,Base interna,entrevista_cliente,descartado,2026-05-02,,,2650
+420,38,Nicolas Vargas,Computrabajo,entrevista_tecnica,descartado,2026-05-07,,,2800
+421,38,Elena Vargas,Computrabajo,aplicado,descartado,2026-05-14,,,2850
+422,38,Carla Mendoza,Computrabajo,aplicado,descartado,2026-05-14,,,3100
+423,38,Ximena Rojas,LinkedIn,aplicado,descartado,2026-05-16,,,3050
+424,39,Jorge Mendoza,LinkedIn,contratado,contratado,2026-04-25,2026-05-09,2026-05-12,2450
+425,39,Pablo Rojas,Base interna,entrevista_tecnica,descartado,2026-05-05,,,2500
+426,39,Jorge Rios,LinkedIn,screening,descartado,2026-05-06,,,3150
+427,39,Carla Mendoza,LinkedIn,aplicado,descartado,2026-05-10,,,3250
+428,39,Irene Torrez,GetOnBoard,aplicado,descartado,2026-05-10,,,2700
+429,39,Irene Gutierrez,LinkedIn,aplicado,descartado,2026-05-12,,,2750
+430,39,Olga Aguilar,LinkedIn,aplicado,descartado,2026-05-12,,,2550
+431,40,Olga Saavedra,LinkedIn,screening,descartado,2026-09-06,,,3850
+432,40,Gonzalo Villca,Computrabajo,aplicado,descartado,2026-09-07,,,3150
+433,40,Andres Saavedra,LinkedIn,screening,descartado,2026-09-10,,,4100
+434,40,Andres Arce,GetOnBoard,aplicado,descartado,2026-09-12,,,3100
+435,40,Nicolas Gutierrez,LinkedIn,entrevista_tecnica,descartado,2026-09-14,,,3650
+436,40,Olga Mamani,LinkedIn,entrevista_cliente,descartado,2026-09-21,,,4000
+437,40,Irene Rios,Computrabajo,contratado,contratado,2026-09-21,2026-10-05,2026-10-08,3500
+438,40,Sergio Rojas,LinkedIn,entrevista_cliente,descartado,2026-09-29,,,4250
+439,40,Belen Rios,Computrabajo,aplicado,descartado,2026-09-30,,,3550
+440,40,Victor Romero,GetOnBoard,aplicado,descartado,2026-10-01,,,3650
+441,40,Sergio Mamani,LinkedIn,screening,descartado,2026-10-03,,,3450
+442,40,Gonzalo Salinas,Computrabajo,screening,descartado,2026-10-04,,,4100
+443,40,Hugo Torrez,Referido,screening,descartado,2026-10-06,,,3750
+444,41,Karen Gutierrez,Base interna,entrevista_tecnica,descartado,2026-04-24,,,2150
+445,41,Hugo Flores,GetOnBoard,screening,descartado,2026-04-26,,,2750
+446,41,Pablo Gutierrez,Base interna,screening,descartado,2026-04-26,,,2100
+447,41,Sergio Mercado,Base interna,entrevista_tecnica,descartado,2026-05-03,,,2550
+448,41,Gabriela Ortiz,LinkedIn,aplicado,descartado,2026-05-04,,,2600
+449,41,Carla Suarez,Referido,contratado,contratado,2026-05-05,2026-05-23,2026-05-26,2450
+450,41,Daniela Torrez,GetOnBoard,aplicado,descartado,2026-05-05,,,2850
+451,41,Tania Choque,Base interna,aplicado,descartado,2026-05-05,,,2150
+452,41,Zoe Arce,LinkedIn,screening,descartado,2026-05-13,,,2700
+453,41,Ximena Villca,Computrabajo,aplicado,descartado,2026-05-13,,,2150
+454,41,Belen Rojas,LinkedIn,entrevista_tecnica,descartado,2026-05-15,,,2300
+455,41,Olga Mendoza,GetOnBoard,screening,descartado,2026-05-22,,,2750
+456,41,Irene Ortiz,LinkedIn,aplicado,descartado,2026-05-26,,,2300
+457,42,Tania Aguilar,Computrabajo,screening,descartado,2026-06-10,,,2050
+458,42,Tania Arce,Referido,screening,descartado,2026-06-14,,,2650
+459,42,Karen Paredes,Referido,screening,descartado,2026-06-18,,,2250
+460,42,Luis Mercado,Referido,aplicado,descartado,2026-06-27,,,2250
+461,42,Jorge Romero,Referido,aplicado,descartado,2026-06-29,,,2700
+462,42,Bruno Ortiz,LinkedIn,screening,descartado,2026-07-02,,,2550
+463,42,Cristian Arce,LinkedIn,entrevista_cliente,descartado,2026-07-05,,,2300
+464,42,Cristian Rojas,GetOnBoard,aplicado,descartado,2026-07-06,,,2700
+465,42,Esteban Paredes,LinkedIn,screening,descartado,2026-07-07,,,2050
+466,42,Victor Torrez,Base interna,screening,descartado,2026-07-13,,,2400
+467,42,Karen Suarez,Base interna,contratado,contratado,2026-07-13,2026-07-26,2026-07-31,2400
+468,42,Fernando Gutierrez,Referido,screening,descartado,2026-07-18,,,2250
+469,42,Karen Suarez,LinkedIn,aplicado,descartado,2026-07-23,,,2300
+470,43,Daniela Arce,Referido,aplicado,descartado,2026-08-10,,,3950
+471,43,Hugo Saavedra,Base interna,entrevista_tecnica,descartado,2026-08-10,,,3950
+472,43,Ana Arce,LinkedIn,entrevista_cliente,descartado,2026-08-22,,,3250
+473,43,Daniel Villca,LinkedIn,aplicado,descartado,2026-08-26,,,4200
+474,43,Belen Paredes,GetOnBoard,screening,descartado,2026-08-29,,,3900
+475,43,Ximena Gutierrez,Referido,contratado,contratado,2026-08-30,2026-09-15,2026-09-18,3350
+476,43,Daniela Flores,Base interna,screening,descartado,2026-08-31,,,4000
+477,43,Nicolas Flores,Base interna,aplicado,descartado,2026-09-01,,,3450
+478,43,Ximena Mercado,LinkedIn,screening,descartado,2026-09-02,,,4000
+479,43,Zoe Choque,Referido,entrevista_cliente,descartado,2026-09-02,,,3550
+480,43,Belen Mercado,Computrabajo,aplicado,descartado,2026-09-03,,,3250
+481,43,Esteban Rios,Referido,aplicado,descartado,2026-09-04,,,4000
+482,43,Andres Saavedra,Base interna,aplicado,descartado,2026-09-14,,,3850
+483,43,Daniela Gutierrez,Computrabajo,aplicado,descartado,2026-09-16,,,3150
+484,44,Daniel Mendoza,Computrabajo,entrevista_tecnica,descartado,2026-10-10,,,3400
+485,44,Luis Flores,Referido,aplicado,descartado,2026-10-10,,,2750
+486,44,Belen Salinas,LinkedIn,screening,descartado,2026-10-10,,,3550
+487,44,Rocio Choque,Computrabajo,screening,descartado,2026-10-11,,,2950
+488,44,Maria Rojas,LinkedIn,entrevista_tecnica,descartado,2026-10-20,,,3550
+489,44,Cristian Salinas,LinkedIn,aplicado,descartado,2026-10-21,,,3400
+490,44,Victor Mamani,LinkedIn,aplicado,descartado,2026-10-28,,,2950
+491,44,Ximena Ortiz,Base interna,aplicado,descartado,2026-11-03,,,2950
+492,44,Irene Mendoza,Computrabajo,aplicado,en_proceso,2026-11-03,,,3600
+493,44,Zoe Paredes,Computrabajo,aplicado,en_proceso,2026-11-04,,,2700
+494,44,Gabriela Saavedra,LinkedIn,aplicado,descartado,2026-11-05,,,2900
+495,45,Carla Vargas,Computrabajo,aplicado,descartado,2026-10-12,,,2900
+496,45,Sergio Rojas,LinkedIn,screening,descartado,2026-10-14,,,2900
+497,45,Andres Vargas,Base interna,aplicado,descartado,2026-10-22,,,2600
+498,45,Gabriela Flores,Base interna,aplicado,descartado,2026-10-22,,,3050
+499,45,Olga Flores,Referido,entrevista_tecnica,descartado,2026-10-26,,,2700
+500,45,Cristian Arce,LinkedIn,screening,en_proceso,2026-10-29,,,2900
+501,45,Tania Rios,LinkedIn,screening,descartado,2026-10-30,,,3350
+502,45,Victor Villca,LinkedIn,aplicado,en_proceso,2026-11-03,,,2750
+503,46,Fabiola Castro,Computrabajo,screening,descartado,2026-07-18,,,3850
+504,46,Nicolas Mamani,Base interna,oferta,oferta_rechazada,2026-07-20,2026-07-31,2026-08-04,3500
+505,46,Jorge Mamani,Referido,contratado,contratado,2026-07-20,2026-08-02,2026-08-05,4050
+506,46,Karen Castro,LinkedIn,screening,descartado,2026-07-23,,,3700
+507,46,Victor Ortiz,LinkedIn,screening,descartado,2026-07-28,,,4250
+508,46,Pablo Arce,LinkedIn,aplicado,descartado,2026-07-30,,,3800
+509,46,Jorge Mendoza,LinkedIn,aplicado,descartado,2026-07-31,,,3650
