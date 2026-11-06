@@ -43,7 +43,7 @@ async def mensaje(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 def main() -> None:
     if not TOKEN:
         raise SystemExit("Falta TELEGRAM_TOKEN: créalo con @BotFather y ponlo en .env (o en Environment, en Render).")
-    app = Application.builder().token(TOKEN).build()
+       app = Application.builder().token(TOKEN).connect_timeout(30).read_timeout(30).write_timeout(30).build()
     app.add_handler(CommandHandler("start", inicio))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, mensaje))
 
